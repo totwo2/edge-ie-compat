@@ -1,0 +1,7 @@
+# 生成的 apply 脚本含用户真实内网地址, 禁止纳入版本库/发布
+dist/
+
+# 用户数据: sitelist.xml 一旦使用就会写入真实内网地址/IP, 同属用户数据, 一并排除。
+# 仓库内唯一可见的样例是 sitelist.xml.example (占位假域名)。
+# 首次使用时从 sitelist.xml.example 复制一份即可。
+sitelist.xml

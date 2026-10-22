@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Edge IE 兼容站点列表 · 唯一真源（脱敏模板）
+  - 本文件不含任何真实内网地址/IP；所有 <site url> 由用户提供、AI 写入。
+  - 占位示例(假域名, 替换成你的真实内网站点): intranet.example.com:7001
+  - ZoneMap 注册表项由生成器从列表自动推导, 勿手写 IP。
+  - 结构:
+      <site url="主机:端口"><compat-mode>IE8|IE9|IE11</compat-mode><open-in>IE11</open-in></site>
+  - AI 增删/改模式后跑 gen.py, version 自动 +1; 不要手改 version。
+-->
+<site-list version="1">
+</site-list>
