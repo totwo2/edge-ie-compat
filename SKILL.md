@@ -1,6 +1,7 @@
 ---
 name: edge-ie-compat
 slug: edge-ie-compat
+displayName: Edge IE 兼容管家
 description: 管理 Edge IE 兼容模式企业站点列表（Enterprise Mode Site List / IE mode），并对老旧内网站点做引导式 IE 版本测试。当用户需要在 Edge 里用 IE 引擎打开内网站点、配置文档模式（IE8/IE9/IE11）、ActiveX、本地 Intranet 区域，或提到 "Edge IE 兼容 / IE mode / 企业模式站点列表 / sitelist / 内网站点兼容性 / ActiveX / 兼容性视图 / setup-ie-compat / 导出让同事用" 时使用。所有站点由用户提供，skill 文件本身不含真实内网地址。
 topics:
   - Edge IE 兼容模式
